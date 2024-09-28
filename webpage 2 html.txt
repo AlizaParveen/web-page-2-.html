@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>home page</title>
+</head>
+<body bgcolor="DarkSalmon" style="Khaki;">
+<font color='#123123' size='+3'><b>welcome to IIMT BOOK DIGITAL LIBRARY</b></font>
+<br> To make learning resources available through a single-window to the learner, National Mission on 
+Education through Information and Communication Technology (NMEICT) has sponsored the National
+Digital Library of India(NDLI) project and arranged funding through Ministry of Education, Govt. of India
+</body>
+</html>
